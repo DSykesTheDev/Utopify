@@ -1,1 +1,48 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root{
+    --darker-pink: #603140;
+    --bs-focus-ring-color: #000;
+}
+
+.btn-primary{
+    --bs-btn-bg: var(--darker-pink);
+    --bs-btn-border-color: var(--darker-pink);
+}
+
+.form-control{
+    --bs-input-bg: #000;
+}
+
+
+.text-darker-pink {
+    color:#231821;
+}
+
+.text-color-pink {
+    color:#D67AB1;
+}
+
+.text-dark-pink{
+    color: #603140;
+}
+
+.text-light-pink{
+    color: #FDF7FA;
+}
+
+.bg-darker-pink{
+
+}
+
+.bg-pink{
+
+}
+
+.bg-dark-pink{
+
+}
+
+.bg-light-pink{
+    
+}
